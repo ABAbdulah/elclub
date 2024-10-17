@@ -1,0 +1,51 @@
+.footer {
+    background-color: #001f3f; /* Dark theme */
+    color: #ffffff;
+  }
+  
+  .footer h5 {
+    color: #f2f2f2;
+  }
+  
+  .footer ul {
+    padding-left: 0;
+  }
+  
+  .footer ul li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  .footer-logo {
+    width: 100px;
+  }
+  
+  .social-icons a {
+    margin: 0 10px;
+    color: #ffffff;
+    font-size: 20px;
+  }
+  
+  .social-icons a:hover {
+    color: #ff851b; /* Slight hover effect */
+  }
+  
+  .legal-text {
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  
+  .list-inline-item a {
+    color: #ffffff;
+  }
+  
+  .list-inline-item a:hover {
+    color: #ff851b;
+  }
+  
+  .contact-row {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  

@@ -1,0 +1,31 @@
+.image-section {
+    position: relative;
+    display: flex;  /* Use Flexbox for alignment */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    overflow: hidden;
+  }
+  
+  .arrow-left,
+  .arrow-right {
+    background-color: rgba(0, 0, 0, 0.5); /* Slight background for visibility */
+    border-radius: 50%;
+    padding: 10px;
+  }
+  
+  .arrow-left:hover,
+  .arrow-right:hover {
+    background-color: rgba(0, 0, 0, 0.8); /* Darker on hover */
+  }
+
+  
+  .image-container {
+    display: flex; /* Use flex to place images side by side */
+    transition: transform 1s ease; /* Smooth transition for sliding */
+    width: 100%; /* Full width for the container */
+  }
+  
+  .image-container img {
+    min-width: 100%; /* Each image takes full width of container */
+  }
+  

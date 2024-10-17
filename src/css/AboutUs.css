@@ -1,0 +1,55 @@
+.Heading {
+    background-color: #001f3f; /* Change this to your desired background color */
+    color: white; /* Text color */
+    padding: 20px; /* Add some padding */
+    border-radius: 15px; /* Curve the corners */
+    text-align: center; /* Center the text */
+    max-width: 300px; /* Optional: Set a max width */
+    margin: 0 auto; /* Center the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for depth */
+  }
+  .Heading h1{
+    color: white;
+  }
+.about-us-section {
+    padding: 40px 15px; /* Added horizontal padding for smaller screens */
+  }
+  
+  .about-us-image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 20px;
+  }
+  
+  h1 {
+    color: #001f3f;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  h2 {
+    color: #001f3f;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  h3 {
+    color: #ff4136;
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  

@@ -1,0 +1,35 @@
+.contact-container {
+    background-color: #f8f9fa; /* Light background */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #001f3f; /* Title color */
+    font-weight: bold;
+  }
+  
+  p {
+    color: #6c757d;
+  }
+  
+  form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    background-color: #001f3f;
+    border-color: #001f3f;
+  }
+  
+  button:hover {
+    background-color: #001a35;
+  }
+  .bgcolor-butt{
+    background-color: #c41010;
+
+  }
