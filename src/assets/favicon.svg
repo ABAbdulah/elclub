@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Axerio">
+  <circle cx="50" cy="50" r="50" fill="#001f3f"/>
+  <g fill="#ff851b" transform="translate(7,6) scale(0.86)">
+    <ellipse cx="30" cy="40" rx="8" ry="11"/>
+    <ellipse cx="47" cy="29" rx="8.5" ry="12.5"/>
+    <ellipse cx="66" cy="30" rx="8.5" ry="12.5"/>
+    <ellipse cx="83" cy="42" rx="8" ry="11"/>
+    <path d="M56 47c14 0 26 9 26 21 0 9-8 13-17 13-4 0-6-2-9-2s-5 2-9 2c-9 0-17-4-17-13 0-12 12-21 26-21z"/>
+  </g>
+</svg>

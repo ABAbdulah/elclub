@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" role="img" aria-label="Axerio LLC">
+  <!-- Paw mark -->
+  <g fill="#ff851b">
+    <ellipse cx="30" cy="44" rx="8" ry="11"/>
+    <ellipse cx="47" cy="32" rx="8.5" ry="12.5"/>
+    <ellipse cx="66" cy="33" rx="8.5" ry="12.5"/>
+    <ellipse cx="83" cy="46" rx="8" ry="11"/>
+    <path d="M56 50c14 0 26 9 26 21 0 9-8 13-17 13-4 0-6-2-9-2s-5 2-9 2c-9 0-17-4-17-13 0-12 12-21 26-21z"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="104" y="56" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="42" font-weight="800" letter-spacing="1" fill="#ffffff">AXERIO</text>
+  <text x="285" y="56" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#ff851b">LLC</text>
+  <text x="106" y="80" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#cbd5e1">PET SUPPLIES</text>
+</svg>

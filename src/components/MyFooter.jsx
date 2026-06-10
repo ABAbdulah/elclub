@@ -18,8 +18,8 @@ function MyFooter() {
           <Col xs={12} md={4} className="text-center">
             <h5>Contact Us</h5>
             <p>Customer Service From Real People</p>
-            <p>Phone: +17372711603</p>
-            <p>Email: info@elclub.com</p>
+            <p>Phone: (659)-333-5697</p>
+            <p>Email: info@axeriollc.com</p>
           </Col>
         </Row>
         
